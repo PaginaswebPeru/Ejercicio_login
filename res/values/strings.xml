@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ejercicio_Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="lblusu">Usuario:</string>
+	<string name="lblpass">Password:</string>
+	<string name="btn">Login</string>
+</resources>
